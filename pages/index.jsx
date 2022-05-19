@@ -1,13 +1,15 @@
-import Head from 'next/head'
+import Meta from './Head/Meta'
+import Link from './Head/Link'
+import Title from './Head/Title'
 
 export default function Home() {
   return (
     <>
-      <Head>
-        <title>Home • </title>
-      </Head>
+      <Meta />
+      <Link />
+      <Title name='React Pattern' />
       <h1>
-        
+
       </h1>
     </>
   )
