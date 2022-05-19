@@ -1,13 +1,13 @@
-import Meta from './Head/Meta'
-import Link from './Head/Link'
-import Title from './Head/Title'
+import Meta from '../Components/Head/Meta'
+import Link from '../Components/Head/Link'
+import Title from '../Components/Head/Title'
 
 export default function Home() {
   return (
     <>
       <Meta />
       <Link />
-      <Title name='React Pattern' />
+      <Title name='Next Pattern' />
       <h1>
 
       </h1>
