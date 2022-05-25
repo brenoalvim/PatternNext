@@ -5,7 +5,7 @@ export default function Title(props) {
         <>
             <Head>
                 <title>
-                    {props.name}
+                    {props.name} • Next Pattern
                 </title>
             </Head>
         </>
