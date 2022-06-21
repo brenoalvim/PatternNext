@@ -1,1 +1,1 @@
-Estrutura padrão para iniciar projetos com Next.js usando JavaScript
+This is a starter template for Next.js
